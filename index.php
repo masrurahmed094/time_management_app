@@ -1,2 +1,1 @@
-<header>
-    <h1> Welcome to the Time Management System </h1>
+<h1>Welcome to Time Management App</h1>
