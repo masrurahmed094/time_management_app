@@ -1,4 +1,4 @@
-The Time Management Application is a fully PHP-based web application designed to help users efficiently track their tasks, manage time, and optimize productivity. Built using PHP for both frontend and backend, with MySQL (via XAMPP) for database management, this application provides a seamless and dynamic user experience.
+The Time Management Application is a fully PHP-based web application designed to help users efficiently track their tasks, manage time, and optimize productivity. Built using PHP for both frontend and backend, with MySQL (via MAMP) for database management, this application provides a seamless and dynamic user experience.
 
 Key Features:
 
